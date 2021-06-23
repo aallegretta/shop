@@ -1,0 +1,86 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "storage": "128 GB",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "storage": "128 GB",
+      "price": 1099
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "model": "iPhone 12 Pro Max",
+      "storage": "128 GB",
+      "price": 1299
+    },
+    {
+      "id": 4,
+      "brand": "Samsung",
+      "model": "S21",
+      "storage": "128 GB",
+      "price": 799
+    },
+    {
+      "id": 5,
+      "brand": "Samsung",
+      "model": "S21 Ultra",
+      "storage": "128 GB",
+      "price": 1199
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "brand": "HP",
+      "model": "EliteBook 13",
+      "processor": "Intel i7",
+      "RAM": "16 GB",
+      "storage": "512 GB",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "MacBook Pro 13",
+      "processor": "Apple M1",
+      "RAM": "8 GB",
+      "storage": "256 GB",
+      "price": 1299
+    },
+    {
+      "id": 3,
+      "brand": "ASUS",
+      "model": "VivoBook 15",
+      "processor": "Intel i5",
+      "RAM": "16 GB",
+      "storage": "256 GB",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "brand": "Microsoft",
+      "model": "Surface Pro 13",
+      "processor": "Intel i7",
+      "RAM": "16 GB",
+      "storage": "256 GB",
+      "price": 1499
+    },
+    {
+      "id": 5,
+      "brand": "Lenovo",
+      "model": "IdeaPad 13",
+      "processor": "Intel Pentium",
+      "RAM": "4 GB",
+      "storage": "128 GB",
+      "price": 399
+    }
+  ]
+}
