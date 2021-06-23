@@ -1,5 +1,5 @@
 {
-"catalog": {
+"catalog": [
   "phones": [
     {
       "id": 1,
@@ -84,5 +84,5 @@
       "price": 399
     }
   ]
-}
+]
 }
